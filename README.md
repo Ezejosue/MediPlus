@@ -37,9 +37,9 @@ Creative Commons
 **Próximos pasos:**
 
 * **Desarrollo de la aplicación móvil:**
-    * Se seleccionará una tecnología de desarrollo adecuada para la aplicación.
-    * Se diseñará la interfaz de usuario.
-    * Se implementarán las funcionalidades de la aplicación.
+    * React Native: Framework para el desarrollo de aplicaciones móviles multiplataforma.
+    * Expo: Plataforma para el desarrollo rápido y sencillo de aplicaciones móviles con React Native.
+    * Bootstrap 5: Framework para el diseño web y móvil con una amplia variedad de componentes predefinidos.
 * **Pruebas y lanzamiento:**
     * Se realizarán pruebas de la aplicación para asegurar su correcto funcionamiento.
     * La aplicación se lanzará en las tiendas de aplicaciones de Android e iOS.
