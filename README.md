@@ -9,7 +9,7 @@ El Asilo de ancianos Esperanza de Santa Ana busca una aplicación móvil para me
 
 - **React Native y Expo:** Para el desarrollo de la aplicación móvil multiplataforma.
 - **Bootstrap 5:** Para un diseño responsive y atractivo.
-- **MYSQL:** Para la gestión de la base de datos.
+- **MYSQL o Firebase:** Para la gestión de la base de datos.
 
 **Requisitos para Desarrolladores** 💻:
 
